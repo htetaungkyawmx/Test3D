@@ -94,7 +94,6 @@ while True:
     elif key == ord('c'):
         confidence_threshold = (confidence_threshold + 0.1) % 1.0
         print(f"✓ ယုံကြည်မှုပမာဏ {confidence_threshold:.2f} သို့ပြောင်းလဲပြီးပါပြီ")
-
 cap.release()
 cv2.destroyAllWindows()
 print("\n✓ Program ရပ်ဆိုင်းသွားပါပြီ")
