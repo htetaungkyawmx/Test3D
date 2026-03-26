@@ -1,0 +1,16 @@
+{
+    "similarity_threshold": 0.4,
+    "detection_threshold": 0.5,
+    "use_gpu": false,
+    "camera_width": 640,
+    "camera_height": 480,
+    "camera_fps": 30,
+    "save_unknown_faces": true,
+    "auto_backup": true,
+    "recognition_interval": 10,
+    "max_face_size": 640,
+    "min_face_size": 64,
+    "enable_tracking": true,
+    "confidence_threshold": 0.7,
+    "show_stats": true
+}

@@ -1,0 +1,19 @@
+{
+    "similarity_threshold": 0.45,
+    "confidence_threshold": 0.65,
+    "use_gpu": false,
+    "detection_size": [
+        640,
+        640
+    ],
+    "camera_width": 1280,
+    "camera_height": 720,
+    "auto_save_unknown": true,
+    "auto_save_matches": true,
+    "unknown_save_interval": 30,
+    "min_face_size": 80,
+    "max_face_size": 640,
+    "enable_landmarks": true,
+    "show_stats": true,
+    "daily_backup": true
+}

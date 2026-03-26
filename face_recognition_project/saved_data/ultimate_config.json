@@ -1,0 +1,15 @@
+{
+    "threshold": 0.42,
+    "save_unknown": true,
+    "save_matched": true,
+    "save_interval": 3,
+    "detection_size": [
+        800,
+        800
+    ],
+    "camera_width": 1280,
+    "camera_height": 720,
+    "use_gpu": false,
+    "show_stats": true,
+    "min_face_size": 80
+}

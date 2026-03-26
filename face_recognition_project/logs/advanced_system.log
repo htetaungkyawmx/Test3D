@@ -1,0 +1,18 @@
+2026-03-26 11:01:51,768 - INFO - Face models loaded (GPU: False)
+2026-03-26 11:01:51,769 - INFO - Directory ready: known_faces
+2026-03-26 11:01:51,769 - INFO - Directory ready: saved_data
+2026-03-26 11:01:51,769 - INFO - Directory ready: logs
+2026-03-26 11:01:51,769 - INFO - Directory ready: unknown_faces
+2026-03-26 11:01:51,769 - INFO - Directory ready: matched_faces
+2026-03-26 11:01:51,769 - INFO - Directory ready: backups
+2026-03-26 11:01:51,769 - INFO - Directory ready: daily_matches
+2026-03-26 11:01:52,111 - INFO - ✓ Added face: Naing Lin Htet (quality: 0.76)
+2026-03-26 11:01:52,248 - INFO - ✓ Added face: Pyae Pyae (quality: 0.77)
+2026-03-26 11:01:52,435 - INFO - ✓ Added face: Khant Nyar (quality: 0.89)
+2026-03-26 11:01:52,673 - INFO - ✓ Added face: Htet Aung Kyaw (quality: 0.84)
+2026-03-26 11:01:52,696 - INFO - Loading faiss.
+2026-03-26 11:01:52,713 - INFO - Successfully loaded faiss.
+2026-03-26 11:01:52,717 - INFO - FAISS index built with 4 faces
+2026-03-26 11:01:52,718 - INFO - Advanced Face Recognition System initialized
+2026-03-26 11:01:55,723 - INFO - Starting Advanced Face Recognition System...
+2026-03-26 11:07:55,390 - INFO - System stopped

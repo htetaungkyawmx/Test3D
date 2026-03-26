@@ -1,0 +1,209 @@
+2026-03-26 10:33:46,202 - INFO - Face models loaded successfully (GPU: True)
+2026-03-26 10:33:46,202 - INFO - Created directory: captured_faces
+2026-03-26 10:33:46,202 - INFO - Created directory: backups
+2026-03-26 10:33:46,202 - INFO - Found 4 face images to process
+2026-03-26 10:33:46,543 - INFO - Added face: Naing Lin Htet
+2026-03-26 10:33:46,684 - INFO - Added face: Pyae Pyae
+2026-03-26 10:33:46,870 - INFO - Added face: Khant Nyar
+2026-03-26 10:33:47,113 - INFO - Added face: Htet Aung Kyaw
+2026-03-26 10:33:47,147 - INFO - Loading faiss.
+2026-03-26 10:33:47,631 - INFO - Successfully loaded faiss.
+2026-03-26 10:33:47,634 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:33:47,634 - INFO - Database saved to saved_data/face_database.pkl
+2026-03-26 10:33:47,634 - INFO - Backup saved to backups/face_database_20260326_103347.pkl
+2026-03-26 10:33:47,634 - INFO - Database updated with 4 faces
+2026-03-26 10:33:47,634 - INFO - Face Recognition System initialized successfully
+2026-03-26 10:33:47,634 - INFO - Configuration saved successfully
+2026-03-26 10:33:50,638 - INFO - Starting Face Recognition System...
+2026-03-26 10:33:50,638 - INFO - Camera source: 0
+2026-03-26 10:33:50,638 - INFO - Database contains 4 faces
+2026-03-26 10:33:50,648 - ERROR - Failed to open camera: 0
+2026-03-26 10:33:51,648 - INFO - ==================================================
+2026-03-26 10:33:51,649 - INFO - Final Statistics:
+2026-03-26 10:33:51,649 - INFO - Total runtime: 5.4 seconds
+2026-03-26 10:33:51,649 - INFO - Total frames: 0
+2026-03-26 10:33:51,649 - INFO - Faces detected: 0
+2026-03-26 10:33:51,649 - INFO - Faces recognized: 0
+2026-03-26 10:33:51,649 - INFO - Unknown faces: 0
+2026-03-26 10:33:51,649 - INFO - Database size: 4 faces
+2026-03-26 10:33:51,649 - INFO - ==================================================
+2026-03-26 10:33:51,650 - INFO - Configuration saved successfully
+2026-03-26 10:33:51,650 - INFO - System stopped successfully
+2026-03-26 10:34:15,767 - INFO - Configuration loaded successfully
+2026-03-26 10:34:44,182 - INFO - Face models loaded successfully (GPU: True)
+2026-03-26 10:34:44,182 - INFO - Loaded 4 faces from database
+2026-03-26 10:34:44,218 - INFO - Loading faiss.
+2026-03-26 10:34:44,237 - INFO - Successfully loaded faiss.
+2026-03-26 10:34:44,240 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:34:44,240 - INFO - Found 4 face images to process
+2026-03-26 10:34:44,241 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:34:44,241 - INFO - Database saved to saved_data/face_database.pkl
+2026-03-26 10:34:44,241 - INFO - Backup saved to backups/face_database_20260326_103444.pkl
+2026-03-26 10:34:44,241 - INFO - Database updated with 4 faces
+2026-03-26 10:34:44,241 - INFO - Face Recognition System initialized successfully
+2026-03-26 10:34:44,241 - INFO - Configuration saved successfully
+2026-03-26 10:34:44,241 - INFO - Starting Face Recognition System...
+2026-03-26 10:34:44,241 - INFO - Camera source: 0
+2026-03-26 10:34:44,241 - INFO - Database contains 4 faces
+2026-03-26 10:34:44,250 - ERROR - Failed to open camera: 0
+2026-03-26 10:34:45,249 - INFO - ==================================================
+2026-03-26 10:34:45,250 - INFO - Final Statistics:
+2026-03-26 10:34:45,250 - INFO - Total runtime: 1.1 seconds
+2026-03-26 10:34:45,250 - INFO - Total frames: 0
+2026-03-26 10:34:45,250 - INFO - Faces detected: 0
+2026-03-26 10:34:45,250 - INFO - Faces recognized: 0
+2026-03-26 10:34:45,250 - INFO - Unknown faces: 0
+2026-03-26 10:34:45,250 - INFO - Database size: 4 faces
+2026-03-26 10:34:45,250 - INFO - ==================================================
+2026-03-26 10:34:45,251 - INFO - Configuration saved successfully
+2026-03-26 10:34:45,251 - INFO - System stopped successfully
+2026-03-26 10:35:23,036 - INFO - Configuration loaded successfully
+2026-03-26 10:35:50,823 - INFO - Face models loaded successfully (GPU: True)
+2026-03-26 10:35:50,823 - INFO - Loaded 4 faces from database
+2026-03-26 10:35:50,847 - INFO - Loading faiss.
+2026-03-26 10:35:50,861 - INFO - Successfully loaded faiss.
+2026-03-26 10:35:50,863 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:35:50,863 - INFO - Found 4 face images to process
+2026-03-26 10:35:50,863 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:35:50,863 - INFO - Database saved to saved_data/face_database.pkl
+2026-03-26 10:35:50,864 - INFO - Backup saved to backups/face_database_20260326_103550.pkl
+2026-03-26 10:35:50,864 - INFO - Database updated with 4 faces
+2026-03-26 10:35:50,864 - INFO - Face Recognition System initialized successfully
+2026-03-26 10:35:50,864 - INFO - Configuration saved successfully
+2026-03-26 10:35:53,869 - INFO - Starting Face Recognition System...
+2026-03-26 10:35:53,870 - INFO - Camera source: 1
+2026-03-26 10:35:53,870 - INFO - Database contains 4 faces
+2026-03-26 10:35:53,889 - ERROR - Failed to open camera: 1
+2026-03-26 10:35:54,880 - INFO - ==================================================
+2026-03-26 10:35:54,881 - INFO - Final Statistics:
+2026-03-26 10:35:54,881 - INFO - Total runtime: 4.1 seconds
+2026-03-26 10:35:54,881 - INFO - Total frames: 0
+2026-03-26 10:35:54,881 - INFO - Faces detected: 0
+2026-03-26 10:35:54,881 - INFO - Faces recognized: 0
+2026-03-26 10:35:54,881 - INFO - Unknown faces: 0
+2026-03-26 10:35:54,882 - INFO - Database size: 4 faces
+2026-03-26 10:35:54,882 - INFO - ==================================================
+2026-03-26 10:35:54,882 - INFO - Configuration saved successfully
+2026-03-26 10:35:54,882 - INFO - System stopped successfully
+2026-03-26 10:41:31,814 - INFO - Configuration loaded successfully
+2026-03-26 10:41:59,958 - INFO - Face models loaded successfully (GPU: False)
+2026-03-26 10:41:59,959 - INFO - Loaded 4 faces from database
+2026-03-26 10:41:59,983 - INFO - Loading faiss.
+2026-03-26 10:41:59,996 - INFO - Successfully loaded faiss.
+2026-03-26 10:41:59,998 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:41:59,998 - INFO - Found 4 face images to process
+2026-03-26 10:41:59,998 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:41:59,998 - INFO - Database saved to saved_data/face_database.pkl
+2026-03-26 10:41:59,999 - INFO - Backup saved to backups/face_database_20260326_104159.pkl
+2026-03-26 10:41:59,999 - INFO - Database updated with 4 faces
+2026-03-26 10:41:59,999 - INFO - Face Recognition System initialized successfully
+2026-03-26 10:41:59,999 - INFO - Configuration saved successfully
+2026-03-26 10:42:03,004 - INFO - Starting Face Recognition System...
+2026-03-26 10:42:03,005 - INFO - Camera source: 1
+2026-03-26 10:42:03,005 - INFO - Database contains 4 faces
+2026-03-26 10:42:03,026 - ERROR - Failed to open camera: 1
+2026-03-26 10:42:04,014 - INFO - ==================================================
+2026-03-26 10:42:04,014 - INFO - Final Statistics:
+2026-03-26 10:42:04,014 - INFO - Total runtime: 4.1 seconds
+2026-03-26 10:42:04,014 - INFO - Total frames: 0
+2026-03-26 10:42:04,014 - INFO - Faces detected: 0
+2026-03-26 10:42:04,014 - INFO - Faces recognized: 0
+2026-03-26 10:42:04,014 - INFO - Unknown faces: 0
+2026-03-26 10:42:04,014 - INFO - Database size: 4 faces
+2026-03-26 10:42:04,014 - INFO - ==================================================
+2026-03-26 10:42:04,015 - INFO - Configuration saved successfully
+2026-03-26 10:42:04,015 - INFO - System stopped successfully
+2026-03-26 10:44:09,044 - INFO - Configuration loaded successfully
+2026-03-26 10:44:37,034 - INFO - Face models loaded successfully (GPU: False)
+2026-03-26 10:44:37,035 - INFO - Loaded 4 faces from database
+2026-03-26 10:44:37,055 - INFO - Loading faiss.
+2026-03-26 10:44:37,066 - INFO - Successfully loaded faiss.
+2026-03-26 10:44:37,068 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:44:37,068 - INFO - Found 4 face images to process
+2026-03-26 10:44:37,068 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:44:37,068 - INFO - Database saved to saved_data/face_database.pkl
+2026-03-26 10:44:37,069 - INFO - Backup saved to backups/face_database_20260326_104437.pkl
+2026-03-26 10:44:37,069 - INFO - Database updated with 4 faces
+2026-03-26 10:44:37,069 - INFO - Face Recognition System initialized successfully
+2026-03-26 10:44:37,069 - INFO - Configuration saved successfully
+2026-03-26 10:44:40,072 - INFO - Starting Face Recognition System...
+2026-03-26 10:44:40,072 - INFO - Camera source: 0
+2026-03-26 10:44:40,072 - INFO - Database contains 4 faces
+2026-03-26 10:44:40,104 - ERROR - Failed to open camera: 0
+2026-03-26 10:44:41,079 - INFO - ==================================================
+2026-03-26 10:44:41,080 - INFO - Final Statistics:
+2026-03-26 10:44:41,080 - INFO - Total runtime: 4.0 seconds
+2026-03-26 10:44:41,080 - INFO - Total frames: 0
+2026-03-26 10:44:41,080 - INFO - Faces detected: 0
+2026-03-26 10:44:41,080 - INFO - Faces recognized: 0
+2026-03-26 10:44:41,080 - INFO - Unknown faces: 0
+2026-03-26 10:44:41,080 - INFO - Database size: 4 faces
+2026-03-26 10:44:41,080 - INFO - ==================================================
+2026-03-26 10:44:41,081 - INFO - Configuration saved successfully
+2026-03-26 10:44:41,081 - INFO - System stopped successfully
+2026-03-26 10:46:37,118 - INFO - Configuration loaded successfully
+2026-03-26 10:47:05,361 - INFO - Face models loaded successfully (GPU: False)
+2026-03-26 10:47:05,361 - INFO - Loaded 4 faces from database
+2026-03-26 10:47:05,385 - INFO - Loading faiss.
+2026-03-26 10:47:05,397 - INFO - Successfully loaded faiss.
+2026-03-26 10:47:05,399 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:47:05,399 - INFO - Found 4 face images to process
+2026-03-26 10:47:05,399 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:47:05,399 - INFO - Database saved to saved_data/face_database.pkl
+2026-03-26 10:47:05,399 - INFO - Backup saved to backups/face_database_20260326_104705.pkl
+2026-03-26 10:47:05,399 - INFO - Database updated with 4 faces
+2026-03-26 10:47:05,399 - INFO - Face Recognition System initialized successfully
+2026-03-26 10:47:05,400 - INFO - Configuration saved successfully
+2026-03-26 10:47:08,405 - INFO - Starting Face Recognition System...
+2026-03-26 10:47:08,406 - INFO - Camera source: 0
+2026-03-26 10:47:08,406 - INFO - Database contains 4 faces
+2026-03-26 10:47:08,431 - ERROR - Failed to open camera: 0
+2026-03-26 10:47:09,412 - INFO - ==================================================
+2026-03-26 10:47:09,413 - INFO - Final Statistics:
+2026-03-26 10:47:09,413 - INFO - Total runtime: 4.1 seconds
+2026-03-26 10:47:09,413 - INFO - Total frames: 0
+2026-03-26 10:47:09,413 - INFO - Faces detected: 0
+2026-03-26 10:47:09,413 - INFO - Faces recognized: 0
+2026-03-26 10:47:09,413 - INFO - Unknown faces: 0
+2026-03-26 10:47:09,414 - INFO - Database size: 4 faces
+2026-03-26 10:47:09,414 - INFO - ==================================================
+2026-03-26 10:47:09,415 - INFO - Configuration saved successfully
+2026-03-26 10:47:09,415 - INFO - System stopped successfully
+2026-03-26 10:53:36,005 - INFO - Configuration loaded successfully
+2026-03-26 10:54:03,999 - INFO - Face models loaded successfully (GPU: False)
+2026-03-26 10:54:03,999 - INFO - Loaded 4 faces from database
+2026-03-26 10:54:04,020 - INFO - Loading faiss.
+2026-03-26 10:54:04,033 - INFO - Successfully loaded faiss.
+2026-03-26 10:54:04,035 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:54:04,035 - INFO - Found 4 face images to process
+2026-03-26 10:54:04,036 - INFO - FAISS index built with 4 embeddings
+2026-03-26 10:54:04,036 - INFO - Database saved to saved_data/face_database.pkl
+2026-03-26 10:54:04,036 - INFO - Backup saved to backups/face_database_20260326_105404.pkl
+2026-03-26 10:54:04,036 - INFO - Database updated with 4 faces
+2026-03-26 10:54:04,036 - INFO - Face Recognition System initialized successfully
+2026-03-26 10:54:04,037 - INFO - Configuration saved successfully
+2026-03-26 10:54:07,042 - INFO - Starting Face Recognition System...
+2026-03-26 10:54:07,043 - INFO - Camera source: 1
+2026-03-26 10:54:07,043 - INFO - Database contains 4 faces
+2026-03-26 10:54:08,743 - INFO - Camera opened successfully: 1
+2026-03-26 10:54:17,069 - INFO - Stats - FPS: 7.7, Avg Processing: 128.5ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:54:27,143 - INFO - Stats - FPS: 7.7, Avg Processing: 129.1ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:54:37,190 - INFO - Stats - FPS: 7.8, Avg Processing: 128.7ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:54:47,211 - INFO - Stats - FPS: 7.7, Avg Processing: 129.6ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:54:57,273 - INFO - Stats - FPS: 7.7, Avg Processing: 128.9ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:55:07,339 - INFO - Stats - FPS: 7.8, Avg Processing: 128.9ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:55:17,372 - INFO - Stats - FPS: 7.7, Avg Processing: 128.5ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:55:27,429 - INFO - Stats - FPS: 7.8, Avg Processing: 128.7ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:55:37,463 - INFO - Stats - FPS: 7.8, Avg Processing: 128.5ms, Known Faces: 4, Threshold: 1.00
+2026-03-26 10:55:43,646 - INFO - Quit signal received
+2026-03-26 10:55:44,773 - INFO - ==================================================
+2026-03-26 10:55:44,773 - INFO - Final Statistics:
+2026-03-26 10:55:44,773 - INFO - Total runtime: 100.8 seconds
+2026-03-26 10:55:44,773 - INFO - Total frames: 736
+2026-03-26 10:55:44,773 - INFO - Faces detected: 734
+2026-03-26 10:55:44,773 - INFO - Faces recognized: 734
+2026-03-26 10:55:44,773 - INFO - Unknown faces: 0
+2026-03-26 10:55:44,773 - INFO - Database size: 4 faces
+2026-03-26 10:55:44,773 - INFO - ==================================================
+2026-03-26 10:55:44,774 - INFO - Configuration saved successfully
+2026-03-26 10:55:44,774 - INFO - System stopped successfully
