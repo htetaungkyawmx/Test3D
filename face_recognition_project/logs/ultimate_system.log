@@ -49,3 +49,31 @@
 2026-03-26 11:16:53,370 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.52)
 2026-03-26 11:16:53,865 - INFO - ✓ MATCH SAVED: Htet Aung Kyaw (conf: 0.53)
 2026-03-26 11:16:57,250 - INFO - System stopped
+2026-03-26 11:47:05,009 - INFO - ✓ Face models loaded (Detection size: [800, 800])
+2026-03-26 11:47:05,010 - INFO - ✓ Loaded 4 faces
+2026-03-26 11:47:05,049 - INFO - Loading faiss.
+2026-03-26 11:47:05,070 - INFO - Successfully loaded faiss.
+2026-03-26 11:47:05,077 - INFO - ✓ FAISS index built with 4 faces
+2026-03-26 11:47:05,078 - INFO - ✓ FAISS index built with 4 faces
+2026-03-26 11:47:05,078 - INFO - ==================================================
+2026-03-26 11:47:05,078 - INFO - ULTIMATE FACE RECOGNITION SYSTEM READY
+2026-03-26 11:47:05,078 - INFO - Known faces: 4
+2026-03-26 11:47:05,078 - INFO - Threshold: 0.42
+2026-03-26 11:47:05,078 - INFO - ==================================================
+2026-03-26 11:47:08,080 - INFO - Starting system...
+2026-03-26 11:47:09,758 - INFO - ✓ Camera opened successfully
+2026-03-26 11:47:10,494 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.52)
+2026-03-26 11:47:11,026 - INFO - ✓ MATCH SAVED: Htet Aung Kyaw (conf: 0.53)
+2026-03-26 11:47:14,185 - INFO - ✓ MATCH SAVED: Htet Aung Kyaw (conf: 0.54)
+2026-03-26 11:47:17,344 - INFO - ✓ MATCH SAVED: Htet Aung Kyaw (conf: 0.53)
+2026-03-26 11:47:20,502 - INFO - ✓ MATCH SAVED: Htet Aung Kyaw (conf: 0.55)
+2026-03-26 11:47:22,824 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.53)
+2026-03-26 11:47:24,158 - INFO - ✓ MATCH SAVED: Htet Aung Kyaw (conf: 0.52)
+2026-03-26 11:47:25,990 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.53)
+2026-03-26 11:47:29,148 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.53)
+2026-03-26 11:47:32,306 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.54)
+2026-03-26 11:47:34,303 - INFO - ✓ MATCH SAVED: Htet Aung Kyaw (conf: 0.52)
+2026-03-26 11:47:35,470 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.52)
+2026-03-26 11:47:38,629 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.52)
+2026-03-26 11:47:41,792 - INFO - ✓ MATCH SAVED: Pyae Pyae (conf: 0.53)
+2026-03-26 11:47:45,271 - INFO - System stopped

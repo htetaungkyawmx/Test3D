@@ -1,0 +1,17 @@
+2026-03-26 11:56:22,973 - INFO - ✓ Face models loaded (Detection size: (800, 800))
+2026-03-26 11:56:22,974 - INFO - ==================================================
+2026-03-26 11:56:22,974 - INFO - FACE LOCK SYSTEM INITIALIZED
+2026-03-26 11:56:22,974 - INFO - Security Level: MAXIMUM
+2026-03-26 11:56:22,974 - INFO - Min Confidence: 85.0%
+2026-03-26 11:56:22,974 - INFO - Users: 0
+2026-03-26 11:56:22,974 - INFO - ==================================================
+2026-03-26 11:57:15,034 - INFO - Face Lock System Starting...
+2026-03-26 11:58:12,909 - INFO - System stopped
+2026-03-26 13:35:18,472 - INFO - ✓ Face models loaded (Detection size: (640, 640))
+2026-03-26 13:35:18,472 - INFO - ==================================================
+2026-03-26 13:35:18,472 - INFO - FACE LOCK SYSTEM INITIALIZED
+2026-03-26 13:35:18,472 - INFO - Security Level: HIGH
+2026-03-26 13:35:18,472 - INFO - Min Confidence: 85.0%
+2026-03-26 13:35:18,472 - INFO - Users: 0
+2026-03-26 13:35:18,472 - INFO - ==================================================
+2026-03-26 13:35:57,569 - INFO - Face Lock System Starting...

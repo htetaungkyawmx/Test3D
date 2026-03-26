@@ -1,0 +1,10 @@
+{
+    "min_confidence": 0.85,
+    "liveness_threshold": 0.7,
+    "max_failures": 3,
+    "lockout_time": 60,
+    "auto_lock": true,
+    "log_access": true,
+    "alert_on_failure": true,
+    "save_failed_attempts": true
+}
